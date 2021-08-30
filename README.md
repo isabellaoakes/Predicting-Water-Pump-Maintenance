@@ -19,6 +19,8 @@ By exploring data related to water pumps in Tanzania, insights can be made as to
 ## Project Description
 Following CRISP-DM, I planned a project to create an algorithm to predict whether water pumps in Tanzania are functional, non-functional, or functional but needs repair. The project outlines what steps would be followed as well as initial data exploration to determine which variables would be the most useful in creating an algorithm. 
 
+## Visual of Waterpoint Status by longitude/latitude
+![image](https://user-images.githubusercontent.com/74040889/131297998-03062b49-d370-4606-b9e9-dc46faebb030.png)
 
 ## Presentations and projects
 * [CRISP-DM Write-up](https://github.com/isabellaoakes/Predicting-Water-Pump-Maintenance/blob/main/Predicting%20Water%20Pump%20Maintenance.docx)
